@@ -24,5 +24,6 @@ If there is an Error, usually because you have entered a empty line.
 But in other cases, it will show up like this:
 ```error occured on '(word you put in)'
 due to the following reason
-Reason of the error```
+Reason of the error
+```
 and the python script will automatically stop after having an Error.
